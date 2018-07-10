@@ -1,10 +1,6 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-test-app
+plain-firefly-bc8
 
 @html
 get /
+get /policy
