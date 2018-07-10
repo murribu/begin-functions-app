@@ -1,0 +1,7 @@
+{
+  "name": "plain-firefly-bc8-get-policy",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
